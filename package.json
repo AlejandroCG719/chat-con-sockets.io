@@ -1,0 +1,19 @@
+{
+  "name": "alejandro",
+  "version": "1.0.0",
+  "description": "Node.js es una tecnología ideal para ciertas aplicaciones web, sin embargo normalmente se usa para hacer las mismas webs que se han hecho siempre sin usar su potencial. Una de esas tecnologías que destaca es WebSockets y comunicación en tiempo real.",
+  "engines": {
+    "node": "7.6.x"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "server": "^1.0.0-alpha.41"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex",
+  "license": "MIT"
+}
